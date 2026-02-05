@@ -1,0 +1,2 @@
+1. give a github logo at navbar
+2. create a footer

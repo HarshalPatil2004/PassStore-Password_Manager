@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <clipPath id="crop">
+      <rect width="24" height="24" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#crop)">
+    <!-- Zoomed image showing only green portion -->
+    <!-- Adjust x, y, width values to crop and zoom into the green area -->
+    <image xlink:href="/src/assets/Logo.png" x="-20" y="-20" width="120" height="120" preserveAspectRatio="xMidYMid slice" />
+  </g>
+</svg>
