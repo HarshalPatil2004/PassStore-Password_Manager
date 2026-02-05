@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from "./Components/Navbar";
 import Manager from "./Components/Manager";
-import Passwords from "./Components/passwords";
+import Passwords from "./Components/Passwords";
 import Footer from "./Components/Footer";
 
 const App = () => {
