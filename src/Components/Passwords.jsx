@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { TrashIcon } from "../Components/TrashIcon";
-import { ClipboardIcon } from "../components/ClipboardIcon";
+import { ClipboardIcon } from "../Components/ClipboardIcon";
 import { EditIcon } from "../Components/EditIcon";
 import { toast } from "react-toastify";
 
