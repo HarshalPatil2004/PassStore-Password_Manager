@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import { TrashIcon } from "../Components/TrashIcon";
-import ClipboardIcon from "../Components/ClipboardIcon";
+import { TrashIcon } from "./TrashIcon";
+import ClipboardIcon from "./ClipboardIcon";
 
-import { EditIcon } from "../Components/EditIcon";
+import { EditIcon } from "./EditIcon";
 import { toast } from "react-toastify";
 
 const Passwords = ({ passwords, deletePassword, editPassword, editingId }) => {
